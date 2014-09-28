@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Records",
+  "name": "Additional Records",
+  "description": "Allows you to add your own music without the use of a resource pack.",
+  "version": "0.1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["goldensilver853"],
+  "credits": "goldensilver853",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
