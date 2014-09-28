@@ -26,10 +26,9 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
-
-# Thumbnails
+Icon# Thumbnails
 ._*
+
 
 # Files that might appear on external disk
 .Spotlight-V100
@@ -51,3 +50,6 @@ hs_err_pid*
 
 #eclipse workspace annoyance junk
 eclipse
+
+#test mod stuff
+bin
