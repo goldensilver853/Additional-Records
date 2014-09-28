@@ -26,30 +26,15 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon# Thumbnails
+Icon
+# Thumbnails
 ._*
-
 
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
 
-#Java miscelanious
-*.class
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-#eclipse workspace annoyance junk
+#eclipse nonsense
 eclipse
-
-#test mod stuff
 bin
